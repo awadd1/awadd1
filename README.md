@@ -5,7 +5,7 @@
 - 👨‍💻 Specializing in Laravel development, API integration, and database performance tuning.
 - 📫 Reach me at **muhammedawadd1@gmail.com**
 
-- 📄 [View My Resume](https://drive.google.com/file/d/1SPbOmu5Esm3ezH5PcMKwG3VPNWQ-xPdx/view?usp=drive_link)
+- 📄 [View My Resume]([https://drive.google.com/file/d/1SPbOmu5Esm3ezH5PcMKwG3VPNWQ-xPdx/view?usp=drive_link](https://drive.google.com/file/d/1K7HYWPRM-IdlZwfO4OsotAcJNMYWkUVf/view?usp=sharing))
 
 ## 🌐 Connect with me
 <p align="left">
